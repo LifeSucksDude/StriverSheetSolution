@@ -1,6 +1,7 @@
 #include<stack>
 #include<string>
 #include<vector>
+
 class Solution {
 public:
     string removeStars(string s) {
